@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">VDTRecords2.0</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="Inicio">inicio</string>
+    <string name="Registrarse">registrarse</string>
+    <string name="Ingresar">ingresar</string>
+    <string name="Perfil">perfil</string>
+    <string name="Teinda">tienda</string>
+    <string name="Carrito">carrito</string>
+    <string name="Contacto">contacto</string>
+    <string name="PuntosFisicos">puntos fisicos</string>
+    <string name="SobreNosotros">sobre nosotos</string>
+
+    <string name="nombre_thiago">Santiago Bourdon</string>
+    <string name="nombre_juanda">Juan Ramirez</string>
+    <string name="nombre_val">Valeria Bonivento</string>
+
+    <string name="frase_thiago">Odio a quien me arrebata mi soledad sin otorgarme algo de compañía a cambio</string>
+    <string name="frase_Juanda">Quien creo Android Stuido, espero encontrarlo en el infierno</string>
+    <string name="frase_val">Profe, ayudenos con la nota</string>
+
+    <string name="descripcion_thiago">Soy un estudiante de 4 semestre de la carrera de desarrollo de software </string>
+    <string name="descripcion_Juandathiago">Descripcion 2</string>
+    <string name="descripcion_val">Descripcion 3</string>
+</resources>

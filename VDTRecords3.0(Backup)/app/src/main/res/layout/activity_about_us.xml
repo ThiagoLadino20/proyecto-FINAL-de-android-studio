@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".about_us">
+
+    <TextView
+        :textStyle="bold"
+        android:layout_width="154dp"
+        android:layout_height="33dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:text=" Sobre Nosotros"
+        android:textSize="20sp" />
+
+    <TextView
+        android:text="@string/frase_thiago"
+        android:layout_marginTop="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/txtPopupThiago"
+        android:layout_marginLeft="30dp"
+        android:textSize="14sp"
+        android:background="@android:color/transparent"
+        style="@style/TextAppearance.AppCompat.Title"
+        android:text="Thiago"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+
+    <TextView
+        android:text="@string/frase_Juanda"
+        android:layout_marginTop="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/txtPopupJuanda"
+        android:layout_marginLeft="30dp"
+        android:textSize="14sp"
+        android:background="@android:color/transparent"
+        style="@style/TextAppearance.AppCompat.Title"
+        android:text="Juanda"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:text="@string/frase_val"
+        android:layout_marginTop="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/txtPopupVal"
+        android:layout_marginLeft="30dp"
+        android:textSize="14sp"
+        android:background="@android:color/transparent"
+        style="@style/TextAppearance.AppCompat.Title"
+        android:text="Val"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+
+    <ImageView
+        android:id="@+id/imgInfoPopup"
+        android:layout_width="271dp"
+        android:layout_height="217dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:src="@mipmap/logo" />
+
+
+</LinearLayout>

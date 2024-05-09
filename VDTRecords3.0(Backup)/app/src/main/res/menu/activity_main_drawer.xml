@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/mainActivity"
+            android:icon="@drawable/home"
+            android:title="Inicio" />
+        <item
+            android:id="@+id/register"
+            android:icon="@drawable/profile"
+            android:title="Registrarse" />
+        <item
+            android:id="@+id/login"
+            android:icon="@drawable/key"
+            android:title="Ingresar" />
+        <item
+            android:id="@+id/user"
+            android:icon="@drawable/profile"
+            android:title="Perfil" />
+        <item
+            android:id="@+id/tienda"
+            android:icon="@drawable/tienda"
+            android:title="Tienda" />
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/carrito"
+            android:title="Carrito" />
+        <item
+            android:id="@+id/contacto"
+            android:icon="@drawable/servicio"
+            android:title="Contacto" />
+        <item
+            android:id="@+id/maps"
+            android:icon="@drawable/punto"
+            android:title="puntos fisicos" />
+        <item
+            android:id="@+id/about_us"
+            android:icon="@drawable/about"
+            android:title="sobre nosotros" />
+    </group>
+</menu>
