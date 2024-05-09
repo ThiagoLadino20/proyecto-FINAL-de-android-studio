@@ -1,0 +1,6650 @@
+1
+Argentina
+8
+
+1
+Walter Benitez
+
+
+2
+
+
+11
+Franco Armani
+
+ 
+1
+
+
+2
+Marcos Senesi
+
+
+3
+ 
+
+22
+Valentin Barco
+
+
+2
+ 
+
+3
+Nehuen Perez
+
+
+3
+
+
+33
+Nicolas Tagliafico
+
+
+2
+
+
+4
+Nahuel Molina
+
+
+3
+
+
+44
+German Pezzella
+
+
+3
+
+
+5
+Cristian Romero
+
+
+2
+
+
+55
+Nicolas Otamendi
+
+
+2
+
+
+6
+Leandro Paredes
+
+
+5
+
+
+66
+Rodrigo de Paul
+
+
+6
+
+
+7
+Enzo Fernandez
+
+
+5
+
+
+77
+Exequiel Palacios	
+
+
+7
+
+
+8
+Giovani Lo Celso
+
+
+6
+
+
+88
+Alexis Mac Allister
+
+
+5
+
+
+9
+Lionel Messi 
+
+
+10
+
+
+99
+Paulo Dybala
+
+
+8
+
+
+10
+Julian Alvarez
+
+
+7
+
+
+100
+Angel Di Maria
+
+
+8
+
+
+11
+Nicolas Gonzalez
+
+
+7
+	
+
+111
+Alejandro Garnacho
+
+
+8
+	
+--------------
+2
+Mexico
+6
+
+1
+Guillermo Ochoa
+ 
+
+2
+
+
+11
+Luis Malagon
+
+ 
+1
+
+
+2
+Julian Araujo
+
+
+3
+ 
+
+22
+Jesus Orozco
+
+
+2
+ 
+
+3
+Gerardo Arteaga
+
+
+3
+
+
+33
+Jesus Gallardo
+
+
+2
+
+
+4
+Cesar Montes
+
+
+3
+
+
+44
+Jorge Sanchez
+
+
+3
+
+
+5
+Johan Vasquez
+
+
+2
+
+
+55
+Edson Alvarez
+
+
+2
+
+
+6
+Uriel Antuna
+
+
+5
+
+
+66
+Roberto Alvarado
+
+
+6
+
+
+7
+Luis Chavez
+
+
+5
+
+
+77
+Orbelin Pineda	
+
+
+7
+
+
+8
+Luis Romo
+
+
+6
+
+
+88
+Carlos Alberto Rodriguez
+
+
+5
+
+
+9
+Santiago Gimenez
+
+
+10
+
+
+99
+Hirving Lozano
+
+
+8
+
+
+10
+Henry Martin
+
+
+7
+
+
+100
+Hirving Lozano
+
+
+8
+
+
+11
+Julian Quinones
+
+
+7
+	
+
+111
+Hirving Lozano
+
+
+
+8
+	
+--------------
+3
+Estados Unidos
+2
+
+1
+Matt Turner
+ 
+
+2
+
+
+11
+Ethan Horvath
+
+ 
+1
+
+
+2
+Tim Ream
+
+
+3
+ 
+
+22
+Antonee Robinson
+
+
+2
+ 
+
+3
+Sergino Dest
+
+
+3
+
+
+33
+Miles Robinson
+
+
+2
+
+
+4
+Chris Richards
+
+
+3
+
+
+44
+Mark McKenzie
+
+
+3
+
+
+5
+Joe Scally
+
+
+2
+
+
+55
+Kristoffer Lund
+
+
+2
+
+
+6
+Weston McKennie
+
+
+5
+
+
+66
+Tyler Adams
+
+
+6
+
+
+7
+Timothy Weah
+
+
+5
+
+
+77
+Yunus Musah
+
+
+7
+
+
+8
+Giovanni Reyna
+
+
+6
+
+
+88
+Luca de la Torre
+
+
+5
+
+
+9
+Christian Pulisic
+
+
+10
+
+
+99
+Folarin Balogun
+
+
+8
+
+
+10
+Josh Sargent
+
+
+7
+
+
+100
+Folarin Balogun
+
+
+8
+
+
+11
+Ricardo Pepi
+
+
+7
+	
+
+111
+Folarin Balogun
+
+
+
+8
+	
+1
+Argentina
+8
+
+1
+Walter Benitez
+ 
+
+2
+
+
+11
+Franco Armani
+
+ 
+1
+
+
+2
+Marcos Senesi
+
+
+3
+ 
+
+22
+Valentin Barco
+
+
+2
+ 
+
+3
+Nehuen Perez
+
+
+3
+
+
+33
+Nicolas Tagliafico
+
+
+2
+
+
+4
+Nahuel Molina
+
+
+3
+
+
+44
+German Pezzella
+
+
+3
+
+
+5
+Cristian Romero
+
+
+2
+
+
+55
+Nicolas Otamendi
+
+
+2
+
+
+6
+Leandro Paredes
+
+
+5
+
+
+66
+Rodrigo de Paul
+
+
+6
+
+
+7
+Enzo Fernandez
+
+
+5
+
+
+77
+Exequiel Palacios	
+
+
+7
+
+
+8
+Giovani Lo Celso
+
+
+6
+
+
+88
+Alexis Mac Allister
+
+
+5
+
+
+9
+Lionel Messi 
+
+
+10
+
+
+99
+Paulo Dybala
+
+
+8
+
+
+10
+Julian Alvarez
+
+
+7
+
+
+100
+Angel Di Maria
+
+
+8
+
+
+11
+Nicolas Gonzalez
+
+
+7
+	
+
+111
+Alejandro Garnacho
+
+
+8
+	
+--------------
+2
+Mexico
+6
+
+1
+Guillermo Ochoa
+ 
+
+2
+
+
+11
+Luis Malagon
+
+ 
+1
+
+
+2
+Julian Araujo
+
+
+3
+ 
+
+22
+Jesus Orozco
+
+
+2
+ 
+
+3
+Gerardo Arteaga
+
+
+3
+
+
+33
+Jesus Gallardo
+
+
+2
+
+
+4
+Cesar Montes
+
+
+3
+
+
+44
+Jorge Sanchez
+
+
+3
+
+
+5
+Johan Vasquez
+
+
+2
+
+
+55
+Edson Alvarez
+
+
+2
+
+
+6
+Uriel Antuna
+
+
+5
+
+
+66
+Roberto Alvarado
+
+
+6
+
+
+7
+Luis Chavez
+
+
+5
+
+
+77
+Orbelin Pineda	
+
+
+7
+
+
+8
+Luis Romo
+
+
+6
+
+
+88
+Carlos Alberto Rodriguez
+
+
+5
+
+
+9
+Santiago Gimenez
+
+
+10
+
+
+99
+Hirving Lozano
+
+
+8
+
+
+10
+Henry Martin
+
+
+7
+
+
+100
+Hirving Lozano
+
+
+8
+
+
+11
+Julian Quinones
+
+
+7
+	
+
+111
+Hirving Lozano
+
+
+
+8
+	
+--------------
+4
+Brasil
+7
+
+1
+Alisson
+ 
+
+2
+
+
+11
+Bento
+
+ 
+1
+
+
+2
+Marquinhos
+
+
+3
+ 
+
+22
+Renan Lodi
+
+
+2
+ 
+
+3
+Emerson Royal
+
+
+3
+
+
+33
+Gabriel Magalhaes
+
+
+2
+
+
+4
+Bremer
+
+
+3
+
+
+44
+Carlos Augusto
+
+
+3
+
+
+5
+Nino
+
+
+2
+
+
+55
+Carlos Augusto
+
+
+2
+
+
+6
+Bruno Guimaraes
+
+
+5
+
+
+66
+Douglas Luiz
+
+
+6
+
+
+7
+Raphael Veiga
+
+
+5
+
+
+77
+Joelinton
+
+
+7
+
+
+8
+Andre
+
+
+6
+
+
+88
+Joelinton
+
+
+5
+
+
+9
+Gabriel Jesus
+
+
+10
+
+
+99
+Vinicius Junior
+
+
+8
+
+
+10
+Rodrygo
+
+
+7
+
+
+100
+Raphinha
+
+
+8
+
+
+11
+Gabriel Martinelli
+
+
+7
+	
+
+111
+Endrick
+
+
+
+8
+	
+1
+Argentina
+8
+
+1
+Walter Benitez
+ 
+
+2
+
+
+11
+Franco Armani
+
+ 
+1
+
+
+2
+Marcos Senesi
+
+
+3
+ 
+
+22
+Valentin Barco
+
+
+2
+ 
+
+3
+Nehuen Perez
+
+
+3
+
+
+33
+Nicolas Tagliafico
+
+
+2
+
+
+4
+Nahuel Molina
+
+
+3
+
+
+44
+German Pezzella
+
+
+3
+
+
+5
+Cristian Romero
+
+
+2
+
+
+55
+Nicolas Otamendi
+
+
+2
+
+
+6
+Leandro Paredes
+
+
+5
+
+
+66
+Rodrigo de Paul
+
+
+6
+
+
+7
+Enzo Fernandez
+
+
+5
+
+
+77
+Exequiel Palacios	
+
+
+7
+
+
+8
+Giovani Lo Celso
+
+
+6
+
+
+88
+Alexis Mac Allister
+
+
+5
+
+
+9
+Lionel Messi 
+
+
+10
+
+
+99
+Paulo Dybala
+
+
+8
+
+
+10
+Julian Alvarez
+
+
+7
+
+
+100
+Angel Di Maria
+
+
+8
+
+
+11
+Nicolas Gonzalez
+
+
+7
+	
+
+111
+Alejandro Garnacho
+
+
+8
+	
+--------------
+2
+Mexico
+6
+
+1
+Guillermo Ochoa
+ 
+
+2
+
+
+11
+Luis Malagon
+
+ 
+1
+
+
+2
+Julian Araujo
+
+
+3
+ 
+
+22
+Jesus Orozco
+
+
+2
+ 
+
+3
+Gerardo Arteaga
+
+
+3
+
+
+33
+Jesus Gallardo
+
+
+2
+
+
+4
+Cesar Montes
+
+
+3
+
+
+44
+Jorge Sanchez
+
+
+3
+
+
+5
+Johan Vasquez
+
+
+2
+
+
+55
+Edson Alvarez
+
+
+2
+
+
+6
+Uriel Antuna
+
+
+5
+
+
+66
+Roberto Alvarado
+
+
+6
+
+
+7
+Luis Chavez
+
+
+5
+
+
+77
+Orbelin Pineda	
+
+
+7
+
+
+8
+Luis Romo
+
+
+6
+
+
+88
+Carlos Alberto Rodriguez
+
+
+5
+
+
+9
+Santiago Gimenez
+
+
+10
+
+
+99
+Hirving Lozano
+
+
+8
+
+
+10
+Henry Martin
+
+
+7
+
+
+100
+Hirving Lozano
+
+
+8
+
+
+11
+Julian Quinones
+
+
+7
+	
+
+111
+Hirving Lozano
+
+
+
+8
+	
+--------------
+5
+Uruguay
+6
+
+1
+Santiago Mele
+ 
+
+2
+
+
+11
+Franco Israel
+
+ 
+1
+
+
+2
+Guillermo Varela
+
+
+3
+ 
+
+22
+Lucas Olaza
+
+
+2
+ 
+
+3
+Nahitan Nandez
+
+
+3
+
+
+33
+Mathias Olivera
+
+
+2
+
+
+4
+Matias Vina
+
+
+3
+
+
+44
+Ronald Araujo
+
+
+3
+
+
+5
+Sebastian Caceres
+
+
+2
+
+
+55
+Bruno Mendez
+
+
+2
+
+
+6
+Matias Vecino
+
+
+5
+
+
+66
+Giorgian de Arrascaeta
+
+
+6
+
+
+7
+Nicolas de la Cruz
+
+
+5
+
+
+77
+Rodrigo Bentancur
+
+
+7
+
+
+8
+Federico Valverde
+
+
+6
+
+
+88
+Agustin Canobbio
+
+
+5
+
+
+9
+Federico Vinas
+
+
+10
+
+
+99
+Ignacio Laquintana
+
+
+8
+
+
+10
+Facundo Torres
+
+
+7
+
+
+100
+Brian Rodriguez
+
+
+8
+
+
+11
+Facundo Pellistri
+
+
+7
+	
+
+111
+Luciano Rodriguez
+
+
+
+8
+	
+1
+Argentina
+8
+
+1
+Walter Benitez
+ 
+
+2
+
+
+11
+Franco Armani
+
+ 
+1
+
+
+2
+Marcos Senesi
+
+
+3
+ 
+
+22
+Valentin Barco
+
+
+2
+ 
+
+3
+Nehuen Perez
+
+
+3
+
+
+33
+Nicolas Tagliafico
+
+
+2
+
+
+4
+Nahuel Molina
+
+
+3
+
+
+44
+German Pezzella
+
+
+3
+
+
+5
+Cristian Romero
+
+
+2
+
+
+55
+Nicolas Otamendi
+
+
+2
+
+
+6
+Leandro Paredes
+
+
+5
+
+
+66
+Rodrigo de Paul
+
+
+6
+
+
+7
+Enzo Fernandez
+
+
+5
+
+
+77
+Exequiel Palacios	
+
+
+7
+
+
+8
+Giovani Lo Celso
+
+
+6
+
+
+88
+Alexis Mac Allister
+
+
+5
+
+
+9
+Lionel Messi 
+
+
+10
+
+
+99
+Paulo Dybala
+
+
+8
+
+
+10
+Julian Alvarez
+
+
+7
+
+
+100
+Angel Di Maria
+
+
+8
+
+
+11
+Nicolas Gonzalez
+
+
+7
+	
+
+111
+Alejandro Garnacho
+
+
+8
+	
+--------------
+2
+Mexico
+6
+
+1
+Guillermo Ochoa
+ 
+
+2
+
+
+11
+Luis Malagon
+
+ 
+1
+
+
+2
+Julian Araujo
+
+
+3
+ 
+
+22
+Jesus Orozco
+
+
+2
+ 
+
+3
+Gerardo Arteaga
+
+
+3
+
+
+33
+Jesus Gallardo
+
+
+2
+
+
+4
+Cesar Montes
+
+
+3
+
+
+44
+Jorge Sanchez
+
+
+3
+
+
+5
+Johan Vasquez
+
+
+2
+
+
+55
+Edson Alvarez
+
+
+2
+
+
+6
+Uriel Antuna
+
+
+5
+
+
+66
+Roberto Alvarado
+
+
+6
+
+
+7
+Luis Chavez
+
+
+5
+
+
+77
+Orbelin Pineda	
+
+
+7
+
+
+8
+Luis Romo
+
+
+6
+
+
+88
+Carlos Alberto Rodriguez
+
+
+5
+
+
+9
+Santiago Gimenez
+
+
+10
+
+
+99
+Hirving Lozano
+
+
+8
+
+
+10
+Henry Martin
+
+
+7
+
+
+100
+Hirving Lozano
+
+
+8
+
+
+11
+Julian Quinones
+
+
+7
+	
+
+111
+Hirving Lozano
+
+
+
+8
+	
+--------------
+6
+Colombia
+10
+
+1
+David Ospina
+ 
+
+2
+
+
+11
+Camilo Vargas
+
+ 
+1
+
+
+2
+Carlos Cuesta
+
+
+3
+ 
+
+22
+John Lucumi
+
+
+2
+ 
+
+3
+Santiago Arias
+
+
+3
+
+
+33
+Juan David Cabal
+
+
+2
+
+
+4
+Yerson Mosquera
+
+
+3
+
+
+44
+Johan Mojica
+
+
+3
+
+
+5
+Daniel Munoz
+
+
+2
+
+
+55
+Gabriel Fuentes
+
+
+2
+
+
+6
+Kevin Castano
+
+
+5
+
+
+66
+Richard Rios
+
+
+6
+
+
+7
+Jorge Carrascal
+
+
+5
+
+
+77
+James Rodriguez
+
+
+7
+
+
+8
+Jhon Arias
+
+
+6
+
+
+88
+Jefferson Lerma
+
+
+5
+
+
+9
+Luis Diaz
+
+
+10
+
+
+99
+Jhon Cordoba
+
+
+8
+
+
+10
+Carlos Gomez
+
+
+7
+
+
+100
+Jhon Cordoba
+
+
+8
+
+
+11
+Mateo Cassierra
+
+
+7
+	
+
+111
+Rafael Santos Borre
+
+
+
+8
+	
+1
+Argentina
+8
+
+1
+Walter Benitez
+ 
+
+2
+
+
+11
+Franco Armani
+
+ 
+1
+
+
+2
+Marcos Senesi
+
+
+3
+ 
+
+22
+Valentin Barco
+
+
+2
+ 
+
+3
+Nehuen Perez
+
+
+3
+
+
+33
+Nicolas Tagliafico
+
+
+2
+
+
+4
+Nahuel Molina
+
+
+3
+
+
+44
+German Pezzella
+
+
+3
+
+
+5
+Cristian Romero
+
+
+2
+
+
+55
+Nicolas Otamendi
+
+
+2
+
+
+6
+Leandro Paredes
+
+
+5
+
+
+66
+Rodrigo de Paul
+
+
+6
+
+
+7
+Enzo Fernandez
+
+
+5
+
+
+77
+Exequiel Palacios	
+
+
+7
+
+
+8
+Giovani Lo Celso
+
+
+6
+
+
+88
+Alexis Mac Allister
+
+
+5
+
+
+9
+Lionel Messi 
+
+
+10
+
+
+99
+Paulo Dybala
+
+
+8
+
+
+10
+Julian Alvarez
+
+
+7
+
+
+100
+Angel Di Maria
+
+
+8
+
+
+11
+Nicolas Gonzalez
+
+
+7
+	
+
+111
+Alejandro Garnacho
+
+
+8
+	
+--------------
+2
+Mexico
+6
+
+1
+Guillermo Ochoa
+ 
+
+2
+
+
+11
+Luis Malagon
+
+ 
+1
+
+
+2
+Julian Araujo
+
+
+3
+ 
+
+22
+Jesus Orozco
+
+
+2
+ 
+
+3
+Gerardo Arteaga
+
+
+3
+
+
+33
+Jesus Gallardo
+
+
+2
+
+
+4
+Cesar Montes
+
+
+3
+
+
+44
+Jorge Sanchez
+
+
+3
+
+
+5
+Johan Vasquez
+
+
+2
+
+
+55
+Edson Alvarez
+
+
+2
+
+
+6
+Uriel Antuna
+
+
+5
+
+
+66
+Roberto Alvarado
+
+
+6
+
+
+7
+Luis Chavez
+
+
+5
+
+
+77
+Orbelin Pineda	
+
+
+7
+
+
+8
+Luis Romo
+
+
+6
+
+
+88
+Carlos Alberto Rodriguez
+
+
+5
+
+
+9
+Santiago Gimenez
+
+
+10
+
+
+99
+Hirving Lozano
+
+
+8
+
+
+10
+Henry Martin
+
+
+7
+
+
+100
+Hirving Lozano
+
+
+8
+
+
+11
+Julian Quinones
+
+
+7
+	
+
+111
+Hirving Lozano
+
+
+
+8
+	
+--------------
+7
+Ecuador
+4
+
+1
+Hernan Galindez
+ 
+
+2
+
+
+11
+Javier Burrai
+
+ 
+1
+
+
+2
+Felix Torres
+
+
+3
+ 
+
+22
+Piero Hincapie
+
+
+2
+ 
+
+3
+Robert Arboleda
+
+
+3
+
+
+33
+Willian Pacho
+
+
+2
+
+
+4
+Pervis Estupinan
+
+
+3
+
+
+44
+Jose Hurtado
+
+
+3
+
+
+5
+Anibal Chala
+
+
+2
+
+
+55
+Angelo Preciado
+
+
+2
+
+
+6
+Jose Cifuentes
+
+
+5
+
+
+66
+Carlos Gruezo
+
+
+6
+
+
+7
+John Yeboah
+
+
+5
+
+
+77
+Jeremy Sarmiento
+
+
+7
+
+
+8
+Angel Mena
+
+
+6
+
+
+88
+Kendry Paez
+
+
+5
+
+
+9
+Gonzalo Plata
+
+
+10
+
+
+99
+Alan Minda
+
+
+8
+
+
+10
+Jordy Caicedo
+
+
+7
+
+
+100
+Alan Minda
+
+
+8
+
+
+11
+Allen Obando
+
+
+7
+	
+
+111
+Alan Minda
+
+
+
+8
+	
+1
+Argentina
+8
+
+1
+Walter Benitez
+ 
+
+2
+
+
+11
+Franco Armani
+
+ 
+1
+
+
+2
+Marcos Senesi
+
+
+3
+ 
+
+22
+Valentin Barco
+
+
+2
+ 
+
+3
+Nehuen Perez
+
+
+3
+
+
+33
+Nicolas Tagliafico
+
+
+2
+
+
+4
+Nahuel Molina
+
+
+3
+
+
+44
+German Pezzella
+
+
+3
+
+
+5
+Cristian Romero
+
+
+2
+
+
+55
+Nicolas Otamendi
+
+
+2
+
+
+6
+Leandro Paredes
+
+
+5
+
+
+66
+Rodrigo de Paul
+
+
+6
+
+
+7
+Enzo Fernandez
+
+
+5
+
+
+77
+Exequiel Palacios	
+
+
+7
+
+
+8
+Giovani Lo Celso
+
+
+6
+
+
+88
+Alexis Mac Allister
+
+
+5
+
+
+9
+Lionel Messi 
+
+
+10
+
+
+99
+Paulo Dybala
+
+
+8
+
+
+10
+Julian Alvarez
+
+
+7
+
+
+100
+Angel Di Maria
+
+
+8
+
+
+11
+Nicolas Gonzalez
+
+
+7
+	
+
+111
+Alejandro Garnacho
+
+
+8
+	
+--------------
+2
+Mexico
+6
+
+1
+Guillermo Ochoa
+ 
+
+2
+
+
+11
+Luis Malagon
+
+ 
+1
+
+
+2
+Julian Araujo
+
+
+3
+ 
+
+22
+Jesus Orozco
+
+
+2
+ 
+
+3
+Gerardo Arteaga
+
+
+3
+
+
+33
+Jesus Gallardo
+
+
+2
+
+
+4
+Cesar Montes
+
+
+3
+
+
+44
+Jorge Sanchez
+
+
+3
+
+
+5
+Johan Vasquez
+
+
+2
+
+
+55
+Edson Alvarez
+
+
+2
+
+
+6
+Uriel Antuna
+
+
+5
+
+
+66
+Roberto Alvarado
+
+
+6
+
+
+7
+Luis Chavez
+
+
+5
+
+
+77
+Orbelin Pineda	
+
+
+7
+
+
+8
+Luis Romo
+
+
+6
+
+
+88
+Carlos Alberto Rodriguez
+
+
+5
+
+
+9
+Santiago Gimenez
+
+
+10
+
+
+99
+Hirving Lozano
+
+
+8
+
+
+10
+Henry Martin
+
+
+7
+
+
+100
+Hirving Lozano
+
+
+8
+
+
+11
+Julian Quinones
+
+
+7
+	
+
+111
+Hirving Lozano
+
+
+
+8
+	
+--------------
+8
+Peru
+1
+
+1
+Pedro Gallese
+ 
+
+2
+
+
+11
+Diego Romero
+
+ 
+1
+
+
+2
+Luis Abram
+
+
+3
+ 
+
+22
+Oliver Sonne
+
+
+2
+ 
+
+3
+Anderson Santamaria
+
+
+3
+
+
+33
+Miguel Araujo
+
+
+2
+
+
+4
+Miguel Trauco
+
+
+3
+
+
+44
+Erick Noriega
+
+
+3
+
+
+5
+Luis Advincula
+
+
+2
+
+
+55
+Alexander Callens
+
+
+2
+
+
+6
+Piero Quispe
+
+
+5
+
+
+66
+Sergio Pena
+
+
+6
+
+
+7
+Jesus Castillo
+
+
+5
+
+
+77
+Wilder Cartagena
+
+
+7
+
+
+8
+Carlos Ascues
+
+
+6
+
+
+88
+Edison Flores
+
+
+5
+
+
+9
+Paolo Guerrero
+
+
+10
+
+
+99
+Andy Polo
+
+
+8
+
+
+10
+Bryan Reyna
+
+
+7
+
+
+100
+Gianluca Lapadula
+
+
+8
+
+
+11
+Franco Zanelatto
+
+
+7
+	
+
+111
+Joao Grimaldo
+
+
+
+8
+	
+1
+Argentina
+8
+
+1
+Walter Benitez
+ 
+
+2
+
+
+11
+Franco Armani
+
+ 
+1
+
+
+2
+Marcos Senesi
+
+
+3
+ 
+
+22
+Valentin Barco
+
+
+2
+ 
+
+3
+Nehuen Perez
+
+
+3
+
+
+33
+Nicolas Tagliafico
+
+
+2
+
+
+4
+Nahuel Molina
+
+
+3
+
+
+44
+German Pezzella
+
+
+3
+
+
+5
+Cristian Romero
+
+
+2
+
+
+55
+Nicolas Otamendi
+
+
+2
+
+
+6
+Leandro Paredes
+
+
+5
+
+
+66
+Rodrigo de Paul
+
+
+6
+
+
+7
+Enzo Fernandez
+
+
+5
+
+
+77
+Exequiel Palacios	
+
+
+7
+
+
+8
+Giovani Lo Celso
+
+
+6
+
+
+88
+Alexis Mac Allister
+
+
+5
+
+
+9
+Lionel Messi 
+
+
+10
+
+
+99
+Paulo Dybala
+
+
+8
+
+
+10
+Julian Alvarez
+
+
+7
+
+
+100
+Angel Di Maria
+
+
+8
+
+
+11
+Nicolas Gonzalez
+
+
+7
+	
+
+111
+Alejandro Garnacho
+
+
+8
+	
+--------------
+2
+Mexico
+6
+
+1
+Guillermo Ochoa
+ 
+
+2
+
+
+11
+Luis Malagon
+
+ 
+1
+
+
+2
+Julian Araujo
+
+
+3
+ 
+
+22
+Jesus Orozco
+
+
+2
+ 
+
+3
+Gerardo Arteaga
+
+
+3
+
+
+33
+Jesus Gallardo
+
+
+2
+
+
+4
+Cesar Montes
+
+
+3
+
+
+44
+Jorge Sanchez
+
+
+3
+
+
+5
+Johan Vasquez
+
+
+2
+
+
+55
+Edson Alvarez
+
+
+2
+
+
+6
+Uriel Antuna
+
+
+5
+
+
+66
+Roberto Alvarado
+
+
+6
+
+
+7
+Luis Chavez
+
+
+5
+
+
+77
+Orbelin Pineda	
+
+
+7
+
+
+8
+Luis Romo
+
+
+6
+
+
+88
+Carlos Alberto Rodriguez
+
+
+5
+
+
+9
+Santiago Gimenez
+
+
+10
+
+
+99
+Hirving Lozano
+
+
+8
+
+
+10
+Henry Martin
+
+
+7
+
+
+100
+Hirving Lozano
+
+
+8
+
+
+11
+Julian Quinones
+
+
+7
+	
+
+111
+Hirving Lozano
+
+
+
+8
+	
+--------------
+9
+Chile
+7
+
+1
+Claudio Bravo
+ 
+
+2
+
+
+11
+Gabriel Arias
+
+ 
+1
+
+
+2
+Gabriel Suazo
+
+
+3
+ 
+
+22
+Mauricio Isla
+
+
+2
+ 
+
+3
+Paulo Diaz
+
+
+3
+
+
+33
+Thomas Galdames
+
+
+2
+
+
+4
+Igor Lichnovsky	
+
+
+3
+
+
+44
+Matias Catalan
+
+
+3
+
+
+5
+Nicolas Fernandez
+
+
+2
+
+
+55
+Francisco Sierralta
+
+
+2
+
+
+6
+Marcelino Nunez
+
+
+5
+
+
+66
+Esteban Pavez
+
+
+6
+
+
+7
+Cesar Perez
+
+
+5
+
+
+77
+Rodrigo Echeverria
+
+
+7
+
+
+8
+Lucas Assadi
+
+
+6
+
+
+88
+Dario Osorio
+
+
+5
+
+
+9
+Alexander Aravena
+
+
+10
+
+
+99
+Victor Davila
+
+
+8
+
+
+10
+Alexis Sanchez
+
+
+7
+
+
+100
+Eduardo Vargas	
+
+
+8
+
+
+11
+Cristian Zavala
+
+
+7
+	
+
+111
+Marcos Bolados	
+
+
+
+8
+	
+1
+Argentina
+8
+
+1
+Walter Benitez
+ 
+
+2
+
+
+11
+Franco Armani
+
+ 
+1
+
+
+2
+Marcos Senesi
+
+
+3
+ 
+
+22
+Valentin Barco
+
+
+2
+ 
+
+3
+Nehuen Perez
+
+
+3
+
+
+33
+Nicolas Tagliafico
+
+
+2
+
+
+4
+Nahuel Molina
+
+
+3
+
+
+44
+German Pezzella
+
+
+3
+
+
+5
+Cristian Romero
+
+
+2
+
+
+55
+Nicolas Otamendi
+
+
+2
+
+
+6
+Leandro Paredes
+
+
+5
+
+
+66
+Rodrigo de Paul
+
+
+6
+
+
+7
+Enzo Fernandez
+
+
+5
+
+
+77
+Exequiel Palacios	
+
+
+7
+
+
+8
+Giovani Lo Celso
+
+
+6
+
+
+88
+Alexis Mac Allister
+
+
+5
+
+
+9
+Lionel Messi 
+
+
+10
+
+
+99
+Paulo Dybala
+
+
+8
+
+
+10
+Julian Alvarez
+
+
+7
+
+
+100
+Angel Di Maria
+
+
+8
+
+
+11
+Nicolas Gonzalez
+
+
+7
+	
+
+111
+Alejandro Garnacho
+
+
+8
+	
+--------------
+2
+Mexico
+6
+
+1
+Guillermo Ochoa
+ 
+
+2
+
+
+11
+Luis Malagon
+
+ 
+1
+
+
+2
+Julian Araujo
+
+
+3
+ 
+
+22
+Jesus Orozco
+
+
+2
+ 
+
+3
+Gerardo Arteaga
+
+
+3
+
+
+33
+Jesus Gallardo
+
+
+2
+
+
+4
+Cesar Montes
+
+
+3
+
+
+44
+Jorge Sanchez
+
+
+3
+
+
+5
+Johan Vasquez
+
+
+2
+
+
+55
+Edson Alvarez
+
+
+2
+
+
+6
+Uriel Antuna
+
+
+5
+
+
+66
+Roberto Alvarado
+
+
+6
+
+
+7
+Luis Chavez
+
+
+5
+
+
+77
+Orbelin Pineda	
+
+
+7
+
+
+8
+Luis Romo
+
+
+6
+
+
+88
+Carlos Alberto Rodriguez
+
+
+5
+
+
+9
+Santiago Gimenez
+
+
+10
+
+
+99
+Hirving Lozano
+
+
+8
+
+
+10
+Henry Martin
+
+
+7
+
+
+100
+Hirving Lozano
+
+
+8
+
+
+11
+Julian Quinones
+
+
+7
+	
+
+111
+Hirving Lozano
+
+
+
+8
+	
+--------------
+10
+Panama
+4
+
+1
+Orlando Mosquera
+ 
+
+2
+
+
+11
+Eddie Roberts
+
+ 
+1
+
+
+2
+Roderick Miller
+
+
+3
+ 
+
+22
+Fidel Escobar
+
+
+2
+ 
+
+3
+Andres Andrade
+
+
+3
+
+
+33
+Jose Cordoba
+
+
+2
+
+
+4
+Eric Davis
+
+
+3
+
+
+44
+Jiovany Ramos
+
+
+3
+
+
+5
+Cesar Blackman
+
+
+2
+
+
+55
+Ivan Anderson
+
+
+2
+
+
+6
+Kahiser Lenis
+
+
+5
+
+
+66
+Cristian Martinez
+
+
+6
+
+
+7
+Adalberto Carrasquilla
+
+
+5
+
+
+77
+Anibal Godoy
+
+
+7
+
+
+8
+Alberto Quintero
+
+
+6
+
+
+88
+Abdiel Ayarza
+
+
+5
+
+
+9
+Cecilio Waterman
+
+
+10
+
+
+99
+Alfredo Stephens
+
+
+8
+
+
+10
+Ismael Diaz
+
+
+7
+
+
+100
+Alfredo Stephens
+
+
+8
+
+
+11
+Jose Fajardo
+
+
+7
+	
+
+111
+Alfredo Stephens	
+
+
+
+8
+	
+1
+Argentina
+8
+
+1
+Walter Benitez
+ 
+
+2
+
+
+11
+Franco Armani
+
+ 
+1
+
+
+2
+Marcos Senesi
+
+
+3
+ 
+
+22
+Valentin Barco
+
+
+2
+ 
+
+3
+Nehuen Perez
+
+
+3
+
+
+33
+Nicolas Tagliafico
+
+
+2
+
+
+4
+Nahuel Molina
+
+
+3
+
+
+44
+German Pezzella
+
+
+3
+
+
+5
+Cristian Romero
+
+
+2
+
+
+55
+Nicolas Otamendi
+
+
+2
+
+
+6
+Leandro Paredes
+
+
+5
+
+
+66
+Rodrigo de Paul
+
+
+6
+
+
+7
+Enzo Fernandez
+
+
+5
+
+
+77
+Exequiel Palacios	
+
+
+7
+
+
+8
+Giovani Lo Celso
+
+
+6
+
+
+88
+Alexis Mac Allister
+
+
+5
+
+
+9
+Lionel Messi 
+
+
+10
+
+
+99
+Paulo Dybala
+
+
+8
+
+
+10
+Julian Alvarez
+
+
+7
+
+
+100
+Angel Di Maria
+
+
+8
+
+
+11
+Nicolas Gonzalez
+
+
+7
+	
+
+111
+Alejandro Garnacho
+
+
+8
+	
+--------------
+2
+Mexico
+6
+
+1
+Guillermo Ochoa
+ 
+
+2
+
+
+11
+Luis Malagon
+
+ 
+1
+
+
+2
+Julian Araujo
+
+
+3
+ 
+
+22
+Jesus Orozco
+
+
+2
+ 
+
+3
+Gerardo Arteaga
+
+
+3
+
+
+33
+Jesus Gallardo
+
+
+2
+
+
+4
+Cesar Montes
+
+
+3
+
+
+44
+Jorge Sanchez
+
+
+3
+
+
+5
+Johan Vasquez
+
+
+2
+
+
+55
+Edson Alvarez
+
+
+2
+
+
+6
+Uriel Antuna
+
+
+5
+
+
+66
+Roberto Alvarado
+
+
+6
+
+
+7
+Luis Chavez
+
+
+5
+
+
+77
+Orbelin Pineda	
+
+
+7
+
+
+8
+Luis Romo
+
+
+6
+
+
+88
+Carlos Alberto Rodriguez
+
+
+5
+
+
+9
+Santiago Gimenez
+
+
+10
+
+
+99
+Hirving Lozano
+
+
+8
+
+
+10
+Henry Martin
+
+
+7
+
+
+100
+Hirving Lozano
+
+
+8
+
+
+11
+Julian Quinones
+
+
+7
+	
+
+111
+Hirving Lozano
+
+
+
+8
+	
+--------------
+11
+Venezuela
+1
+
+1
+Joel Graterol
+ 
+
+2
+
+
+11
+Alain Baroja
+
+ 
+1
+
+
+2
+Nahuel Ferraresi
+
+
+3
+ 
+
+22
+Yordan Osorio
+
+
+2
+ 
+
+3
+Wilker Angel
+
+
+3
+
+
+33
+Christian Makoun
+
+
+2
+
+
+4
+Jon Aramburu
+
+
+3
+
+
+44
+Roberto Rosales
+
+
+3
+
+
+5
+Miguel Navarro
+
+
+2
+
+
+55
+Alexander Gonzalez
+
+
+2
+
+
+6
+Yangel Herrera
+
+
+5
+
+
+66
+Jefferson Savarino
+
+
+6
+
+
+7
+Junior Moreno
+
+
+5
+
+
+77
+Yeferson Soteldo
+
+
+7
+
+
+8
+Tomás Rincon
+
+
+6
+
+
+88
+Romulo Otero
+
+
+5
+
+
+9
+Sergio Cordova
+
+
+10
+
+
+99
+Sergio Cordova
+
+
+8
+
+
+10
+Eric Ramirez
+
+
+7
+
+
+100
+Eric Ramirez
+
+
+8
+
+
+11
+Salomon Rondon
+
+
+7
+	
+
+111
+Salomon Rondon	
+
+
+
+8
+	
+1
+Argentina
+8
+
+1
+Walter Benitez
+ 
+
+2
+
+
+11
+Franco Armani
+
+ 
+1
+
+
+2
+Marcos Senesi
+
+
+3
+ 
+
+22
+Valentin Barco
+
+
+2
+ 
+
+3
+Nehuen Perez
+
+
+3
+
+
+33
+Nicolas Tagliafico
+
+
+2
+
+
+4
+Nahuel Molina
+
+
+3
+
+
+44
+German Pezzella
+
+
+3
+
+
+5
+Cristian Romero
+
+
+2
+
+
+55
+Nicolas Otamendi
+
+
+2
+
+
+6
+Leandro Paredes
+
+
+5
+
+
+66
+Rodrigo de Paul
+
+
+6
+
+
+7
+Enzo Fernandez
+
+
+5
+
+
+77
+Exequiel Palacios	
+
+
+7
+
+
+8
+Giovani Lo Celso
+
+
+6
+
+
+88
+Alexis Mac Allister
+
+
+5
+
+
+9
+Lionel Messi 
+
+
+10
+
+
+99
+Paulo Dybala
+
+
+8
+
+
+10
+Julian Alvarez
+
+
+7
+
+
+100
+Angel Di Maria
+
+
+8
+
+
+11
+Nicolas Gonzalez
+
+
+7
+	
+
+111
+Alejandro Garnacho
+
+
+8
+	
+--------------
+2
+Mexico
+6
+
+1
+Guillermo Ochoa
+ 
+
+2
+
+
+11
+Luis Malagon
+
+ 
+1
+
+
+2
+Julian Araujo
+
+
+3
+ 
+
+22
+Jesus Orozco
+
+
+2
+ 
+
+3
+Gerardo Arteaga
+
+
+3
+
+
+33
+Jesus Gallardo
+
+
+2
+
+
+4
+Cesar Montes
+
+
+3
+
+
+44
+Jorge Sanchez
+
+
+3
+
+
+5
+Johan Vasquez
+
+
+2
+
+
+55
+Edson Alvarez
+
+
+2
+
+
+6
+Uriel Antuna
+
+
+5
+
+
+66
+Roberto Alvarado
+
+
+6
+
+
+7
+Luis Chavez
+
+
+5
+
+
+77
+Orbelin Pineda	
+
+
+7
+
+
+8
+Luis Romo
+
+
+6
+
+
+88
+Carlos Alberto Rodriguez
+
+
+5
+
+
+9
+Santiago Gimenez
+
+
+10
+
+
+99
+Hirving Lozano
+
+
+8
+
+
+10
+Henry Martin
+
+
+7
+
+
+100
+Hirving Lozano
+
+
+8
+
+
+11
+Julian Quinones
+
+
+7
+	
+
+111
+Hirving Lozano
+
+
+
+8
+	
+--------------
+12
+Paraguay
+6
+
+1
+Carlos Coronel
+ 
+
+2
+
+
+11
+Santiago Rojas
+
+ 
+1
+
+
+2
+Ivan Ramirez
+
+
+3
+ 
+
+22
+Omar Alderete
+
+
+2
+ 
+
+3
+Matias Espinoza
+
+
+3
+
+
+33
+Fabian Balbuena
+
+
+2
+
+
+4
+Junior Alonso
+
+
+3
+
+
+44
+Juan Jose Caceres
+
+
+3
+
+
+5
+Robert Rojas
+
+
+2
+
+
+55
+Nestor Gimenez
+
+
+2
+
+
+6
+Alvaro Campuzano
+
+
+5
+
+
+66
+Alejandro Romero Gamarra
+
+
+6
+
+
+7
+Andres Cubas
+
+
+5
+
+
+77
+Matias Rojas
+
+
+7
+
+
+8
+Diego Gomez
+
+
+6
+
+
+88
+Hernesto Caballero
+
+
+5
+
+
+9
+Oscar Cardozo
+
+
+10
+
+
+99
+Antonio Sanabria
+
+
+8
+
+
+10
+Adam Bareiro
+
+
+7
+
+
+100
+Ivan Leguizamon
+
+
+8
+
+
+11
+Ramon Sosa
+
+7
+	
+
+111
+Gabriel Avalos
+
+
+
+8
+	
+1
+Argentina
+8
+
+1
+Walter Benitez
+ 
+
+2
+
+
+11
+Franco Armani
+
+ 
+1
+
+
+2
+Marcos Senesi
+
+
+3
+ 
+
+22
+Valentin Barco
+
+
+2
+ 
+
+3
+Nehuen Perez
+
+
+3
+
+
+33
+Nicolas Tagliafico
+
+
+2
+
+
+4
+Nahuel Molina
+
+
+3
+
+
+44
+German Pezzella
+
+
+3
+
+
+5
+Cristian Romero
+
+
+2
+
+
+55
+Nicolas Otamendi
+
+
+2
+
+
+6
+Leandro Paredes
+
+
+5
+
+
+66
+Rodrigo de Paul
+
+
+6
+
+
+7
+Enzo Fernandez
+
+
+5
+
+
+77
+Exequiel Palacios	
+
+
+7
+
+
+8
+Giovani Lo Celso
+
+
+6
+
+
+88
+Alexis Mac Allister
+
+
+5
+
+
+9
+Lionel Messi 
+
+
+10
+
+
+99
+Paulo Dybala
+
+
+8
+
+
+10
+Julian Alvarez
+
+
+7
+
+
+100
+Angel Di Maria
+
+
+8
+
+
+11
+Nicolas Gonzalez
+
+
+7
+	
+
+111
+Alejandro Garnacho
+
+
+8
+	
+--------------
+2
+Mexico
+6
+
+1
+Guillermo Ochoa
+ 
+
+2
+
+
+11
+Luis Malagon
+
+ 
+1
+
+
+2
+Julian Araujo
+
+
+3
+ 
+
+22
+Jesus Orozco
+
+
+2
+ 
+
+3
+Gerardo Arteaga
+
+
+3
+
+
+33
+Jesus Gallardo
+
+
+2
+
+
+4
+Cesar Montes
+
+
+3
+
+
+44
+Jorge Sanchez
+
+
+3
+
+
+5
+Johan Vasquez
+
+
+2
+
+
+55
+Edson Alvarez
+
+
+2
+
+
+6
+Uriel Antuna
+
+
+5
+
+
+66
+Roberto Alvarado
+
+
+6
+
+
+7
+Luis Chavez
+
+
+5
+
+
+77
+Orbelin Pineda	
+
+
+7
+
+
+8
+Luis Romo
+
+
+6
+
+
+88
+Carlos Alberto Rodriguez
+
+
+5
+
+
+9
+Santiago Gimenez
+
+
+10
+
+
+99
+Hirving Lozano
+
+
+8
+
+
+10
+Henry Martin
+
+
+7
+
+
+100
+Hirving Lozano
+
+
+8
+
+
+11
+Julian Quinones
+
+
+7
+	
+
+111
+Hirving Lozano
+
+
+
+8
+	
+--------------
+13
+Canada
+2
+
+1
+Dayne St. Clair
+ 
+
+2
+
+
+11
+Jonathan Sirois
+
+ 
+1
+
+
+2
+Alistair Johnston
+
+
+3
+ 
+
+22
+Moise Bombito
+
+
+2
+ 
+
+3
+Kamal Miller
+
+
+3
+
+
+33
+Jacob Shaffelburg
+
+
+2
+
+
+4
+Derek Cornelius
+
+
+3
+
+
+44
+Luc de Fougerolles
+
+
+3
+
+
+5
+Alphonso Davies
+
+
+2
+
+
+55
+Joel Waterman
+
+
+2
+
+
+6
+Stephen Eustaquio
+
+
+5
+
+
+66
+Mathieu Choiniere
+
+
+6
+
+
+7
+Samuel Piette
+
+
+5
+
+
+77
+Ismael Kone
+
+
+7
+
+
+8
+Jonathan Osorio
+
+
+6
+
+
+88
+Ismael Kone
+
+
+5
+
+
+9
+Theo Bair
+
+
+10
+
+
+99
+Jacen Russell Rowe
+
+
+8
+
+
+10
+Tajon Buchanan
+
+
+7
+
+
+100
+Cyle Larin
+
+
+8
+
+
+11
+Liam Millar
+
+
+7
+	
+
+111
+Ike Ugbo
+
+
+
+8
+	
+1
+Argentina
+8
+
+1
+Walter Benitez
+ 
+
+2
+
+
+11
+Franco Armani
+
+ 
+1
+
+
+2
+Marcos Senesi
+
+
+3
+ 
+
+22
+Valentin Barco
+
+
+2
+ 
+
+3
+Nehuen Perez
+
+
+3
+
+
+33
+Nicolas Tagliafico
+
+
+2
+
+
+4
+Nahuel Molina
+
+
+3
+
+
+44
+German Pezzella
+
+
+3
+
+
+5
+Cristian Romero
+
+
+2
+
+
+55
+Nicolas Otamendi
+
+
+2
+
+
+6
+Leandro Paredes
+
+
+5
+
+
+66
+Rodrigo de Paul
+
+
+6
+
+
+7
+Enzo Fernandez
+
+
+5
+
+
+77
+Exequiel Palacios	
+
+
+7
+
+
+8
+Giovani Lo Celso
+
+
+6
+
+
+88
+Alexis Mac Allister
+
+
+5
+
+
+9
+Lionel Messi 
+
+
+10
+
+
+99
+Paulo Dybala
+
+
+8
+
+
+10
+Julian Alvarez
+
+
+7
+
+
+100
+Angel Di Maria
+
+
+8
+
+
+11
+Nicolas Gonzalez
+
+
+7
+	
+
+111
+Alejandro Garnacho
+
+
+8
+	
+--------------
+2
+Mexico
+6
+
+1
+Guillermo Ochoa
+ 
+
+2
+
+
+11
+Luis Malagon
+
+ 
+1
+
+
+2
+Julian Araujo
+
+
+3
+ 
+
+22
+Jesus Orozco
+
+
+2
+ 
+
+3
+Gerardo Arteaga
+
+
+3
+
+
+33
+Jesus Gallardo
+
+
+2
+
+
+4
+Cesar Montes
+
+
+3
+
+
+44
+Jorge Sanchez
+
+
+3
+
+
+5
+Johan Vasquez
+
+
+2
+
+
+55
+Edson Alvarez
+
+
+2
+
+
+6
+Uriel Antuna
+
+
+5
+
+
+66
+Roberto Alvarado
+
+
+6
+
+
+7
+Luis Chavez
+
+
+5
+
+
+77
+Orbelin Pineda	
+
+
+7
+
+
+8
+Luis Romo
+
+
+6
+
+
+88
+Carlos Alberto Rodriguez
+
+
+5
+
+
+9
+Santiago Gimenez
+
+
+10
+
+
+99
+Hirving Lozano
+
+
+8
+
+
+10
+Henry Martin
+
+
+7
+
+
+100
+Hirving Lozano
+
+
+8
+
+
+11
+Julian Quinones
+
+
+7
+	
+
+111
+Hirving Lozano
+
+
+
+8
+	
+--------------
+14
+Costa Rica
+5
+
+1
+Keylor Navas
+ 
+
+2
+
+
+11
+Kevin Chamorro
+
+ 
+1
+
+
+2
+Gerald Taylor
+
+
+3
+ 
+
+22
+Pablo Arboine
+
+
+2
+ 
+
+3
+Juan Pablo Vargas
+
+
+3
+
+
+33
+Fernan Faerron
+
+
+2
+
+
+4
+Julio Cascante
+
+
+3
+
+
+44
+Joseph Mora
+
+
+3
+
+
+5
+Francisco Calvo
+
+
+2
+
+
+55
+Haxzel Quiros
+
+
+2
+
+
+6
+Elias Aguilar
+
+
+5
+
+
+66
+Ariel Lassiter
+
+
+6
+
+
+7
+Joel Campbell
+
+
+5
+
+
+77
+Jefferson Brenes
+
+
+7
+
+
+8
+Orlando Galo
+
+
+6
+
+
+88
+Alejandro Bran
+
+
+5
+
+
+9
+Anthony Contreras
+
+
+10
+
+
+99
+Kenneth Vargas
+
+
+8
+
+
+10
+Manfred Ugalde
+
+
+7
+
+
+100
+Kenneth Vargas
+
+
+8
+
+
+11
+Warren Madrigal
+
+
+7
+	
+
+111
+Kenneth Vargas
+
+
+8
+	
+1
+Argentina
+8
+
+1
+Walter Benitez
+ 
+
+2
+
+
+11
+Franco Armani
+
+ 
+1
+
+
+2
+Marcos Senesi
+
+
+3
+ 
+
+22
+Valentin Barco
+
+
+2
+ 
+
+3
+Nehuen Perez
+
+
+3
+
+
+33
+Nicolas Tagliafico
+
+
+2
+
+
+4
+Nahuel Molina
+
+
+3
+
+
+44
+German Pezzella
+
+
+3
+
+
+5
+Cristian Romero
+
+
+2
+
+
+55
+Nicolas Otamendi
+
+
+2
+
+
+6
+Leandro Paredes
+
+
+5
+
+
+66
+Rodrigo de Paul
+
+
+6
+
+
+7
+Enzo Fernandez
+
+
+5
+
+
+77
+Exequiel Palacios	
+
+
+7
+
+
+8
+Giovani Lo Celso
+
+
+6
+
+
+88
+Alexis Mac Allister
+
+
+5
+
+
+9
+Lionel Messi 
+
+
+10
+
+
+99
+Paulo Dybala
+
+
+8
+
+
+10
+Julian Alvarez
+
+
+7
+
+
+100
+Angel Di Maria
+
+
+8
+
+
+11
+Nicolas Gonzalez
+
+
+7
+	
+
+111
+Alejandro Garnacho
+
+
+8
+	
+--------------
+2
+Mexico
+6
+
+1
+Guillermo Ochoa
+ 
+
+2
+
+
+11
+Luis Malagon
+
+ 
+1
+
+
+2
+Julian Araujo
+
+
+3
+ 
+
+22
+Jesus Orozco
+
+
+2
+ 
+
+3
+Gerardo Arteaga
+
+
+3
+
+
+33
+Jesus Gallardo
+
+
+2
+
+
+4
+Cesar Montes
+
+
+3
+
+
+44
+Jorge Sanchez
+
+
+3
+
+
+5
+Johan Vasquez
+
+
+2
+
+
+55
+Edson Alvarez
+
+
+2
+
+
+6
+Uriel Antuna
+
+
+5
+
+
+66
+Roberto Alvarado
+
+
+6
+
+
+7
+Luis Chavez
+
+
+5
+
+
+77
+Orbelin Pineda	
+
+
+7
+
+
+8
+Luis Romo
+
+
+6
+
+
+88
+Carlos Alberto Rodriguez
+
+
+5
+
+
+9
+Santiago Gimenez
+
+
+10
+
+
+99
+Hirving Lozano
+
+
+8
+
+
+10
+Henry Martin
+
+
+7
+
+
+100
+Hirving Lozano
+
+
+8
+
+
+11
+Julian Quinones
+
+
+7
+	
+
+111
+Hirving Lozano
+
+
+
+8
+	
+--------------
+15
+Jamaica
+7
+
+1
+Andre Blake
+ 
+
+2
+
+
+11
+Jahmali Waite
+
+ 
+1
+
+
+2
+Dexter Lembikisa
+
+
+3
+ 
+
+22
+Amarii Bell
+
+
+2
+ 
+
+3
+Ethan Pinnock
+
+
+3
+
+
+33
+DiShon Bernard
+
+
+2
+
+
+4
+Joel Latibeaudiere
+
+
+3
+
+
+44
+Damion Lowe
+
+
+3
+
+
+5
+Adrian Mariappa
+
+
+2
+
+
+55
+Javain Brown
+
+
+2
+
+
+6
+Kevon Lambert
+
+
+5
+
+
+66
+Jon Russell
+
+
+6
+
+
+7
+Daniel Johnson
+
+
+5
+
+
+77
+Jon Russell
+
+
+7
+
+
+8
+Bobby Reid
+
+
+6
+
+
+88
+Jon Russell
+
+
+5
+
+
+9
+Leon Bailey
+
+
+10
+
+
+99
+Cory Burke
+
+
+8
+
+
+10
+Shamar Nicholson
+
+
+7
+
+
+100
+Demarai Gray
+
+
+8
+
+
+11
+Kaheem Parris
+
+
+7
+	
+
+111
+Michail Antonio
+
+
+8
+	
+1
+Argentina
+8
+
+1
+Walter Benitez
+ 
+
+2
+
+
+11
+Franco Armani
+
+ 
+1
+
+
+2
+Marcos Senesi
+
+
+3
+ 
+
+22
+Valentin Barco
+
+
+2
+ 
+
+3
+Nehuen Perez
+
+
+3
+
+
+33
+Nicolas Tagliafico
+
+
+2
+
+
+4
+Nahuel Molina
+
+
+3
+
+
+44
+German Pezzella
+
+
+3
+
+
+5
+Cristian Romero
+
+
+2
+
+
+55
+Nicolas Otamendi
+
+
+2
+
+
+6
+Leandro Paredes
+
+
+5
+
+
+66
+Rodrigo de Paul
+
+
+6
+
+
+7
+Enzo Fernandez
+
+
+5
+
+
+77
+Exequiel Palacios	
+
+
+7
+
+
+8
+Giovani Lo Celso
+
+
+6
+
+
+88
+Alexis Mac Allister
+
+
+5
+
+
+9
+Lionel Messi 
+
+
+10
+
+
+99
+Paulo Dybala
+
+
+8
+
+
+10
+Julian Alvarez
+
+
+7
+
+
+100
+Angel Di Maria
+
+
+8
+
+
+11
+Nicolas Gonzalez
+
+
+7
+	
+
+111
+Alejandro Garnacho
+
+
+8
+	
+--------------
+2
+Mexico
+6
+
+1
+Guillermo Ochoa
+ 
+
+2
+
+
+11
+Luis Malagon
+
+ 
+1
+
+
+2
+Julian Araujo
+
+
+3
+ 
+
+22
+Jesus Orozco
+
+
+2
+ 
+
+3
+Gerardo Arteaga
+
+
+3
+
+
+33
+Jesus Gallardo
+
+
+2
+
+
+4
+Cesar Montes
+
+
+3
+
+
+44
+Jorge Sanchez
+
+
+3
+
+
+5
+Johan Vasquez
+
+
+2
+
+
+55
+Edson Alvarez
+
+
+2
+
+
+6
+Uriel Antuna
+
+
+5
+
+
+66
+Roberto Alvarado
+
+
+6
+
+
+7
+Luis Chavez
+
+
+5
+
+
+77
+Orbelin Pineda	
+
+
+7
+
+
+8
+Luis Romo
+
+
+6
+
+
+88
+Carlos Alberto Rodriguez
+
+
+5
+
+
+9
+Santiago Gimenez
+
+
+10
+
+
+99
+Hirving Lozano
+
+
+8
+
+
+10
+Henry Martin
+
+
+7
+
+
+100
+Hirving Lozano
+
+
+8
+
+
+11
+Julian Quinones
+
+
+7
+	
+
+111
+Hirving Lozano
+
+
+
+8
+	
+--------------
+16
+Bolivia
+1
+
+1
+David Akologo
+ 
+
+2
+
+
+11
+Bruno Poveda
+
+ 
+1
+
+
+2
+Marcelo Suarez
+
+
+3
+ 
+
+22
+Diego Medina
+
+
+2
+ 
+
+3
+Luis Haquin
+
+
+3
+
+
+33
+Adrian Jusino
+
+
+2
+
+
+4
+Daniel Lino
+
+
+3
+
+
+44
+Roberto Fernandez
+
+
+3
+
+
+5
+Jose Sagredo
+
+
+2
+
+
+55
+Yomar Rocha
+
+
+2
+
+
+6
+Robson Matheus
+
+
+5
+
+
+66
+Miguel Terceros
+
+
+6
+
+
+7
+Ramiro Vaca
+
+
+5
+
+
+77
+Moises Villarroel
+
+
+7
+
+
+8
+Gabriel Villamíl
+
+
+6
+
+
+88
+Boris Cespedes
+
+
+5
+
+
+9
+Jaume Cuellar
+
+
+10
+
+
+99
+Jair Reinoso
+
+
+8
+
+
+10
+Cesar Menacho
+
+
+7
+
+
+100
+Jair Reinoso
+
+
+8
+
+
+11
+Carmelo Algarañaz
+
+
+7
+	
+
+111
+Jair Reinoso
+
+
+8
+	
+--------------
+
+
+
